@@ -221,6 +221,3 @@ cat /root/root.txt
 - `instance/users.db` dumped (local copy retained offline).
 
 - `shell.py` reverse shell script written to web root in lab.
-
-
-> **WARNING:** This document contains sensitive payloads and should be kept private. Do NOT publish this file or its contents in a public repository. Treat it as confidential lab notes.
