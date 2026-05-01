@@ -1,4 +1,4 @@
-# HTB — Conversor — Full Private Writeup (EN)
+# HTB — Conversor — Full Writeup (EN)
 
 **Author:** Daniel
 
